@@ -31,7 +31,6 @@ Requires:	transfig
 Requires:	lpddaemon
 Requires:	sendmail-command
 Obsoletes:	apsfilter
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 Magicfilter is a customizable, extensible automatic printer filter.
