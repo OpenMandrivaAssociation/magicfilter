@@ -2,7 +2,7 @@ Summary:	Printer filters
 Summary(pl):	Filtry dla drukarek
 Name:		magicfilter
 Version:	1.2
-Release:	%mkrel 6
+Release:	%mkrel 7
 Group:		System/Configuration/Printing
 License:	GPL
 Source0:	ftp://sunsite.unc.edu/pub/Linux/system/printing/%{name}-%{version}.tar.gz
