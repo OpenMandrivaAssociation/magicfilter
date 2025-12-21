@@ -9,6 +9,11 @@ Source0:	ftp://sunsite.unc.edu/pub/Linux/system/printing/%{name}-%{version}.tar.
 Patch0:		%{name}_1.2-28.diff.gz
 Patch1:		%{name}-DESTDIR.patch
 Patch2:		%{name}-hpdj.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	a2ps
 BuildRequires:	ghostscript
 BuildRequires:	groff
